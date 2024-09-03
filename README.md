@@ -64,6 +64,8 @@ Order Totals: Calculated the total prices for three specified orders.
 
 # Part 4: Summarize and Analyze
 
-## Summary and Insights:
+## Summary:
 This part includes calculating the total revenue for the top 5 clients, summarizing key metrics like total units purchased, total shipping price, total revenue, and total profit.
 A function to format the data in millions of dollars and sort by total profits.
+
+The analysis revealed that the Consumables category had the highest number of entries, with Bathroom Supplies being the most frequent subcategory within it. Among the clients, the top five had significantly higher order frequencies, with the leading client ordering over 64,000 units. Through data transformation, we calculated key metrics such as subtotals, shipping costs, total prices, line costs, and profits, providing a comprehensive view of the financials associated with each transaction.
